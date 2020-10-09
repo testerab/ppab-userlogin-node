@@ -1,0 +1,14 @@
+{
+  "name": "userlogin",
+  "version": "1.0.0",
+  "description": "Programming Projects for Advanced Beginners, User Login",
+  "main": "credentials.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Anna Baik",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
