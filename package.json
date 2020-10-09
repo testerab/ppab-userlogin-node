@@ -9,6 +9,9 @@
   "author": "Anna Baik",
   "license": "ISC",
   "dependencies": {
-    "jest": "^26.4.2"
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.5.2"
   }
 }
